@@ -1,0 +1,7 @@
+baseurl: "/jekyll_template" # the subpath of your site, e.g. /blog
+
+
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
