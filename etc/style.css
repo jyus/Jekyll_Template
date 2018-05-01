@@ -33,3 +33,24 @@ footer .footer-text{
     color:#fff;
     text-shadow: 3px 2px 10px rgba(0, 0, 0, 0.95);
 }
+
+.navbar{
+   border-bottom:none;
+}
+.navbar-default .navbar-brand{
+    color: #fff !important;
+    letter-spacing:4px;
+    font-size:3em;
+    font-weight: bold;
+}
+.navbar-default .navbar-nav li a {
+    color: #fff;
+    font-weight: lighter;
+    font-size:2em;
+    font-weight: bold;
+}
+
+.navbar-default .navbar-nav li a:hover {
+    text-shadow: 3px 2px 10px rgba(0, 0, 0, 0.95);
+    color:#fff;
+}
