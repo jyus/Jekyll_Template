@@ -1,6 +1,16 @@
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
+.fa{
+    font-size:2em !important;
+}
+
+footer .fa .fa-twitter{
+    color:rgb(2, 151, 250);
+}
+
+footer .fa .fa-instagram{
+    color:rgb(250, 2, 97);
+}
+
+footer .footer-text{
+    margin-top:20px;
+    text-align: center;
 }
